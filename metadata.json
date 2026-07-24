@@ -1,0 +1,6 @@
+{
+  "name": "Vanguardia",
+  "description": "Agencia de marketing digital y herramientas de estrategia e IA para estudios de diseño de interiores y arquitectura.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
